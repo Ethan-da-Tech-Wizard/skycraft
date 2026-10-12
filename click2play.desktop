@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=click2play
+Comment=Start SkyCraft
+Exec=/usr/bin/python3 /home/ethan/pg/wyldgms/skycraft/launch-skycraft.py
+Path=/home/ethan/pg/wyldgms/skycraft
+Icon=/home/ethan/.local/share/icons/hicolor/256x256/apps/steam_icon_489830.png
+Terminal=false
+StartupNotify=false
+Categories=Game;

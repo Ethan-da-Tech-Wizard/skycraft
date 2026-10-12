@@ -1,0 +1,63 @@
+{
+  "checked_at": "2026-10-06T00:26:37.078436+00:00",
+  "status": "gameplay_confirmed_by_user",
+  "game_runtime": "1.7.104.0",
+  "skycraft_version": "0.1.2",
+  "skse_version": "2.3.1",
+  "address_library_format": 5,
+  "launch_command": "/home/ethan/pg/wyldgms/skycraft/launch-skycraft.py",
+  "desktop_launcher": "/home/ethan/.local/share/applications/skycraft.desktop",
+  "checks": {
+    "full_launcher_preflight": "passed",
+    "minecraft_launcher_preflight": "passed",
+    "desktop_entry_validation": "passed",
+    "skse_build": "passed",
+    "skse_x64_binaries_and_start_export": "passed",
+    "skse_installed_binaries_and_62_scripts_hashes": "passed",
+    "address_library_published_sha256": "passed",
+    "address_library_version_format_and_image_bounds": "passed",
+    "both_skycraft_mods_match_installed_release_hashes": "passed",
+    "minecraft_26_3_fabric_0_19_5_java_25": "present",
+    "skycraft_cpp_runtime_imports": "157 of 157 symbols available",
+    "wine_crt_api_sets": "11 of 11 mappings available",
+    "save_backup_hashes": "passed",
+    "skse_runtime_initialization": "passed",
+    "skycraft_plugin_load": "passed",
+    "skyrim_main_menu": "visually confirmed",
+    "minecraft_shared_memory_connection": "passed",
+    "skycraft_renderers": "initialized",
+    "minecraft_texture_transfer": "passed",
+    "gameplay": "Working, confirmed by user; intermittent clunkiness reported."
+  },
+  "save_backup": "/home/ethan/pg/wyldgms/skycraft/backups/skse-install-20261005T224328Z/Saves",
+  "runtime_tested": true,
+  "next_step": "Diagnose reported performance or control roughness; preserve the working configuration.",
+  "dependency_manifests": [
+    "source-build/skse-install-manifest.json",
+    "source-build/address-library-manifest.json"
+  ],
+  "runtime_success": true,
+  "updated_at": "2026-10-06T00:16:01.600798+00:00",
+  "gameplay_tested": true,
+  "runtime_evidence": "/home/ethan/pg/wyldgms/skycraft/logs/working-startup-20261005-1725",
+  "runtime_fixes": [
+    "Disable ThinLTO for SKSE support library so game addresses relocate correctly.",
+    "Set bFull Screen=0 and bBorderless=1 in the dedicated SkyCraft profile to avoid a DXGI fullscreen-switch deadlock."
+  ],
+  "gameplay_confirmation": {
+    "confirmed_at": "2026-10-06T00:40:18.104993+00:00",
+    "source": "user report",
+    "result": "Gameplay worked on Arch Linux. User reports intermittent clunkiness, sometimes substantial.",
+    "performance_profiled": false
+  },
+  "folder_relocation": {
+    "checked_at": "2026-10-06T01:16:00.383159+00:00",
+    "parent": "/home/ethan/pg/wyldgms/skycraft",
+    "launcher_preflight": "passed",
+    "minecraft_preflight": "passed",
+    "desktop_entry_validation": "passed",
+    "save_hashes_preserved": 59,
+    "fresh_gameplay_test": "not performed after relocation",
+    "backup": "/home/ethan/pg/wyldgms/skycraft/backups/folder-layout-20261006T011002Z"
+  }
+}

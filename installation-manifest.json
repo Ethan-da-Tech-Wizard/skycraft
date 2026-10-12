@@ -1,0 +1,263 @@
+{
+  "skycraft_version": "0.1.2",
+  "game": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition",
+  "prefix": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx",
+  "files": [
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/SkyCraft.dll",
+      "sha256": "72b0d231f4632cf2268514eece90e9b7adaa2b59c648fcf14aaf55a6513eefa3"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/SkyCraft.ini",
+      "sha256": "37683d0a382758c630b117f9654f4fc44384fdc7964fcacfa6cfed9c76cec2ce"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/SkyCraft/SkyCraft-Minecraft.zip",
+      "sha256": "d83b6f3168d7804dd4705b96f606304d6988cab03a995d3f7352f94d95a3159e"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/SkyCraft/LICENSE.txt",
+      "sha256": "ddd86554d7d479eccf870d1cfeecd9480cfabe8025762776b6d784d185b21dd9"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/common/Skyrim Special Edition/Data/SKSE/Plugins/SkyCraft/THIRD-PARTY-NOTICES.md",
+      "sha256": "c37067d07a37ccd7ab6534cc0de1cf7c7f26d1435cc26aa4851b25cbb1c4e3cd"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/bundle-version.txt",
+      "sha256": "6c89b7071167d376e16886980b649abb109b84c63b6da8b0eec0f185fdf1b460"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/defaults/prismlauncher.cfg",
+      "sha256": "f3c2611f670becb6a438a95b8265f5d6f8dcd0ae798e1a66451d681c3978e9c3"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/archive.dll",
+      "sha256": "dea602df2fb4a3cc8a7cfc5f28c8c0e98e7b39f195ce874a9028d2ccdb3c140d"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/bz2.dll",
+      "sha256": "9d50a4fb8034e0a8c8c19afdb1aa11f3b987c9f725e678a68eebd9beae41f32b"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/cmark.dll",
+      "sha256": "dab8255ff7ed3b0a60997c387db622d175fcffbe76d8a879be1fb4737ca2d77e"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/iconengines/qsvgicon.dll",
+      "sha256": "e2fb48c9b5c01f78056af06fb0c918bc4db125a7473fc9b781a8b3188ed37fff"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/icuuc.dll",
+      "sha256": "80c67e2e8363374b461506f15c690043c71ec72d0be0eadcf486fe3432362975"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qgif.dll",
+      "sha256": "38f3e8517a8d8b9beabb848b269caf34d0193732c7640b389123239479804938"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qicns.dll",
+      "sha256": "17308d8875c160a74be59c9e12e44a795cdb107c67133b681b3d3f5b3178930a"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qico.dll",
+      "sha256": "25b899a62e8e5985c64c72f2748afc51ec5170ad3ff5f3930fca743ba1e4d478"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qjpeg.dll",
+      "sha256": "f6f0f3c3b3c2c56a2a0e7aed7291c8ec94c8c8fd5dda3e42f394fba9dd5f6211"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qsvg.dll",
+      "sha256": "0e89ffbc34b023abacde13f264b95e30d24ee1682fe2a1b7f92449d6c0af9e63"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qtga.dll",
+      "sha256": "2ef495e8e5ed48b1e8d1fb00bcf53a5cb28df2a47f5fd4f98d6eb30c9a885c34"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qtiff.dll",
+      "sha256": "6bd65c310ccf02f989a8a224cefd1b36b69c2c4ac33620d961d83a1f3648801c"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qwbmp.dll",
+      "sha256": "99f1ec657d6312140fa9f1e5e4029ffbf1e36b5aa5691698c6fad649c3947540"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/imageformats/qwebp.dll",
+      "sha256": "09e759dbcd9b08d86d18506f41282f64086c3bcbfecec2959f3700cc257e803c"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/instances/SkyCraft/.minecraft/mods/e4mc-fabric-6.2.2-modern.jar",
+      "sha256": "1075e0b690c5cd615c43c7492009858656f88b38d0caf788c2e1cfdcb7ee7d5b"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/instances/SkyCraft/.minecraft/mods/fabric-api-0.161.0+26.3.jar",
+      "sha256": "86f16178a3cecc887a85a4cfe9a79d92fa7341d8f39b5951a4d6ad800ab657a6"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/instances/SkyCraft/.minecraft/mods/skycraft-0.1.2.jar",
+      "sha256": "ea429c73dcec49d39b6a0bb9b17ad08a6b0290a39a96ccf6f6c07d581cf992d9"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/instances/SkyCraft/instance.cfg",
+      "sha256": "319020a6b6134449eabe1d1b111c0ec3a5dd54d09fe87b309627d7b17b7b1d39"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/instances/SkyCraft/mmc-pack.json",
+      "sha256": "e620147081aa6d382bce51ac7244a1d387b618f4f9a8a698633950b7a729a50c"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/jars/JavaCheck.jar",
+      "sha256": "47d06ad6390cbf21fdd5fa163e49b7a9b6562dfbdd51dc637178f9e3748c0dcc"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/jars/NewLaunch.jar",
+      "sha256": "f292d43848e7aa09963dff0946cd1e0edbd778a6a0aa759bf4b387749a631712"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/jars/NewLaunchLegacy.jar",
+      "sha256": "234b2bc3144092b4ab54b55f6310d47f1f461422b24c6fa0fb742aa49c9efb12"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/liblzma.dll",
+      "sha256": "7c10e3f609e3d8cf747d0579eea89dfe0557696553239587bf3b9fcc4ca30bc2"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/LICENSE-PrismLauncher.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/lz4.dll",
+      "sha256": "cf4b519968d4483ec7fb7ff6c29d866712100df652224345e19f80f51b0ee553"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/lzo2.dll",
+      "sha256": "4fe450d8bac240cfcdf8a848a0487c2838bd114090ed6a21c9035d70cd0330ae"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/manifest.txt",
+      "sha256": "a91e021557780d18d2806c021d2d0ce2b92cb49ccba728515ed8163ef2aeaecd"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/platforms/qwindows.dll",
+      "sha256": "b1f060ddac4a71da8d61fa47752d1543d0ec8e30f1af2fdcff3145bd6d87424e"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/portable.txt",
+      "sha256": "45ca04cb1257c60794bcd17341b5ec8c5a0cb18571f0d2e7fafee951b6bc476e"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/prismlauncher.exe",
+      "sha256": "19ad665668ca6c80aa5368573dd8f61cfce2a483ce9d5a6cccd7802c221d36a0"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/prismlauncher_filelink.exe",
+      "sha256": "0fa411c57dbaa1c4652feccb9a72d2a4e598a5a39b16b8d827e4807a7447ba5f"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/prismlauncher_updater.exe",
+      "sha256": "c5a0a742f18667804471a9893a53d2f0ffaec4c9384b02b8c60ef8f100e27b91"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/qrencode.dll",
+      "sha256": "47fdc6d98c5f14082196e49aa9398a552e5baab969ced8ecdc298f1827ca217c"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/qt.conf",
+      "sha256": "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Core.dll",
+      "sha256": "eb0ecdcefd37974a30d0b70d7f0f7d35419eb820ff2d7cef3720d00e084531cb"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Gui.dll",
+      "sha256": "78ba25d8d68936f4d45de779e41685d891f829cd05b6f84342845cd606bec3d9"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Network.dll",
+      "sha256": "9920f5fc17a19f5ba28dc780cba5cb8956994ed7a37f92690f7ffd844e568fcc"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6NetworkAuth.dll",
+      "sha256": "116f20f77ca4e8a5a946c3d5b723915625ef7877ef043edc8619bfd4b7d79d3f"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6OpenGL.dll",
+      "sha256": "5e7f2223d327776e13d08e6390d97b951d9e7d2354aa295cea88a489aa112d8c"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Svg.dll",
+      "sha256": "dc79df244469f8e4b0dbed80653cb2826285c35a6bca2f61712205035ba8e764"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Widgets.dll",
+      "sha256": "57ed72df2efbc87a5dbaceadeea38d0fe31d4a77925dcb3faa48441025957cc9"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/Qt6Xml.dll",
+      "sha256": "6bbc1330afab946dcf3bf6a64f8b43e29531d5202d263cfe5fe8f23b02c6c25e"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/qtlogging.ini",
+      "sha256": "64e1b2dbf14930ad0fc05cd756654aeb9126e61a87a45ce862b49457691c2a64"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/styles/qmodernwindowsstyle.dll",
+      "sha256": "6398e7a925274b4f3b78df961d474cef3535fd8edb8a43026f3567d9d32e08f9"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/THIRD-PARTY.txt",
+      "sha256": "39bda308104982fd2c67b775bc19a80697011c833db29ece5c1085cb7f8e6469"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/tls/qcertonlybackend.dll",
+      "sha256": "6b2119acd72c9907e2b37586b005434d44a4503d44554a475fdfae69729abc18"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/tls/qschannelbackend.dll",
+      "sha256": "119752d050c4437a46db55fe6d82b8dae1d623395925ec53cbff5acc56788619"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/tomlplusplus-3.dll",
+      "sha256": "ce1b7713b2f47100629cb009a52abf634b8378fa9472628757120d579fd0216f"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/zlib1.dll",
+      "sha256": "c7085a66b3c6161e7fcc40198e7ae595e417719989b902dba3165c47ec3fe67b"
+    },
+    {
+      "path": "/mnt/GameDrive/SteamLibrary/steamapps/compatdata/489830/pfx/drive_c/users/steamuser/AppData/Local/SkyCraft/Prism/zstd.dll",
+      "sha256": "c4bbac91813e0bccc878c148501f6a7f00f1374e53d561b5ad65d5092bb54a67"
+    }
+  ],
+  "launch_prefix": "/home/ethan/pg/wyldgms/skycraft/runtime/compatdata/pfx",
+  "dependencies": {
+    "skse": {
+      "version": "2.3.1",
+      "target_skyrim": "1.7.104",
+      "manifest": "/home/ethan/pg/wyldgms/skycraft/source-build/skse-install-manifest.json"
+    },
+    "address_library": {
+      "game_version": "1.7.104.0",
+      "manifest": "/home/ethan/pg/wyldgms/skycraft/source-build/address-library-manifest.json"
+    }
+  },
+  "readiness_report": "/home/ethan/pg/wyldgms/skycraft/readiness-report.json",
+  "ready_for_user_launch": true,
+  "runtime_tested": false,
+  "runtime_validation": {
+    "status": "gameplay_confirmed_by_user",
+    "verified_at": "2026-10-06T00:26:37.078436+00:00",
+    "evidence": "/home/ethan/pg/wyldgms/skycraft/logs/working-startup-20261005-1725",
+    "gameplay_tested": true,
+    "profile_display_mode": "borderless window",
+    "gameplay_confirmation": {
+      "confirmed_at": "2026-10-06T00:40:18.104993+00:00",
+      "source": "user report",
+      "result": "Gameplay worked on Arch Linux. User reports intermittent clunkiness, sometimes substantial.",
+      "performance_profiled": false
+    }
+  }
+}
